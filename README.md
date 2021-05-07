@@ -9,5 +9,7 @@ Please check the [wiki](https://github.com/RaduLupan/export-aws-workmail/wiki) p
 My study guide for AWS Security [Specialty](https://aws.amazon.com/certification/certified-security-specialty/) 2020 exam.
 * [terraform-samples-azure](https://github.com/RaduLupan/terraform-samples-azure/):
 Sample configurations developed in my quest to learn Terraform and Azure.
-* [terraform-samples-aws](https://github.com/RaduLupanterraform-samples-aws/):
+* [terraform-samples-aws](https://github.com/RaduLupan/terraform-samples-aws/):
 Code samples inspired from the book ["Terraform: Up & Running"](https://www.terraformupandrunning.com/) by Yevgeniy Brikman 
+* [terraform-rdgateway-aws](https://github.com/RaduLupan/terraform-rdgateway-aws/):
+This repository contains Terraform configurations that deploy an Remote Desktop Gateway solution in an AWS account. Please check the [wiki](https://github.com/RaduLupan/terraform-rdgateway-aws/wiki) page for a step-by-step tutorial on this solution.
