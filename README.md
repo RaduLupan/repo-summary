@@ -15,3 +15,6 @@ Sample configurations developed in my quest to learn Terraform and Azure.
 Code samples inspired from the book ["Terraform: Up & Running"](https://www.terraformupandrunning.com/) by Yevgeniy Brikman 
 * [terraform-rdgateway-aws](https://github.com/RaduLupan/terraform-rdgateway-aws/):
 This repository contains Terraform configurations that deploy an Remote Desktop Gateway solution in an AWS account. Please check the [wiki](https://github.com/RaduLupan/terraform-rdgateway-aws/wiki) page for a step-by-step tutorial on this solution.
+## Ideas for future repositories
+* Terraform - Deploy [Amazon FSx for Windows File Server](https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html) in AWS
+* Terraform - Deploy AWS Client VPN Endpoint, Active Directory authentication and integrate with Duo for MFA
