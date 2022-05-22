@@ -17,7 +17,8 @@ Sample configurations developed in my quest to learn Terraform and Azure.
 Code samples inspired from the book ["Terraform: Up & Running"](https://www.terraformupandrunning.com/) by Yevgeniy Brikman. 
 * [terraform-rdgateway-aws](https://github.com/RaduLupan/terraform-rdgateway-aws/):
 Terraform configurations that deploy an Remote Desktop Gateway solution in an AWS account. Please check the [wiki](https://github.com/RaduLupan/terraform-rdgateway-aws/wiki) page for a step-by-step tutorial on this solution.
+* [learning-python](https://github.com/RaduLupan/learning-python): Working repository for learning Python.
 ## Ideas for future repositories
 * Terraform - Enable S3 cross region replication cross AWS accounts.
 * Terraform - Deploy AWS Client VPN Endpoint, Active Directory authentication and integrate with Duo for MFA.
-* Terraform - Modules: Deploy an AD domain-joined EC2 instance.
+* Python    - Collection of scripts for performing SecOps in AWS.
